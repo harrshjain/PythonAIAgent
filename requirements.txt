@@ -8,3 +8,4 @@ pydantic
 duckduckgo-search
 flask
 werkzeug
+tiktoken
